@@ -147,13 +147,9 @@ The dashboard contains:
 
 # Screenshots
 
-Add screenshots here after running the application.
+## Dashboard Preview
 
-Example:
-
-```md
-![Dashboard Screenshot](assets/screenshot.png)
-```
+<img src="https://drive.google.com/uc?export=view&id=1T3dP6S8OJ17x8IZqNwNtM-caBjofx1Zr" width="1000">
 
 ---
 
