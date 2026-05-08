@@ -152,7 +152,7 @@ Add screenshots here after running the application.
 Example:
 
 ```md
-![Dashboard Screenshot](Screenshot.png)
+![Dashboard Screenshot](assets/screenshot.png)
 ```
 
 ---
